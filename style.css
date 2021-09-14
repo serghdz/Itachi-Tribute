@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ac3838;
+    color: white;
+    font-family: 'Inconsolata', monospace;
+    
+}
+
+#main {
+    background-color: rgba(38,38,38,255);
+    margin: 25px;
+    text-align: center;
+    border-radius: .90%;
+    box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.5),  0px 0px 15px 10px rgb(16, 16, 16, 0.5), 0px 0px 50px 30px rgb(63, 63, 63, 0.5), 0px 0px 20px rgb(100, 100, 100, 0.9);
+               
+    
+}
+
+#title {
+    margin: auto;
+    padding: 50px;
+    letter-spacing: 20px;
+    font-weight: bolder;
+    font-size: 40px;
+    
+    
+    
+}
+#img {
+    width: 50%;
+
+}
+
+#img-caption {
+    color: #ed4949;
+    padding: 30px 100px;
+    font-size: medium;
+    
+}
+
+
+
+.sharingan-link {
+    width: 5%;
+    opacity: 0.25;
+}
+
+.sharingan-link:hover {
+    width: 5%;
+    opacity: 1;
+}
+
+hr {
+    margin: auto;
+    width: 50%;
+}
+
+#tribute-info {
+    padding: 50px;
+    font-size: small;
+    font-weight: light;
+    text-align: justify;
+    letter-spacing: 1px;
+}
+
+
+.tap-link {
+    padding: 20px;
+    opacity: 0.6;
+
+}
